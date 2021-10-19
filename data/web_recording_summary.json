@@ -1,0 +1,486 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-goog-encode-response-if-executable",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-goog-api-key",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "if-none-match",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "if-modified-since",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "a-im",
+      "IncludeInScript": true
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": false,
+      "type": "text/plain"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/javascript"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/x-icon"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/jpeg"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/gif"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/dns-message"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "MaxUsedConnections": 11,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "Oct-18-2021",
+    "RecordingDuration": 19703,
+    "RecordingTimeStamp": 1634586368,
+    "TotalBytesReceived": 36927,
+    "TotalBytesSent": 13498,
+    "TotalRequests": 27
+  },
+  "HostInfo": [
+    {
+      "DomainName": "slovardalja.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "194.28.84.194",
+          "IncludeInScript": true,
+          "Name": "slovardalja.net",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 378,
+              "HttpStatus": 200,
+              "Size": 2151,
+              "URL": "http://slovardalja.net/word.php?wordid=672"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/x-icon",
+              "DownloadTime": 47,
+              "EventId": 376,
+              "HttpStatus": 200,
+              "Size": 522,
+              "URL": "http://slovardalja.net/favicon.ico"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 125,
+              "EventId": 363,
+              "HttpStatus": 200,
+              "Size": 8232,
+              "URL": "http://slovardalja.net/letter.php?charkod=192"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 329,
+              "HttpStatus": 200,
+              "Size": 1187,
+              "URL": "http://slovardalja.net/img/endpic.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 15,
+              "EventId": 321,
+              "HttpStatus": 200,
+              "Size": 10753,
+              "URL": "http://slovardalja.net/img/Header.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 31,
+              "EventId": 318,
+              "HttpStatus": 200,
+              "Size": 988,
+              "URL": "http://slovardalja.net/style.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 46,
+              "EventId": 315,
+              "HttpStatus": 200,
+              "Size": 2907,
+              "URL": "http://slovardalja.net/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "173.194.73.95",
+          "IncludeInScript": true,
+          "Name": "content-autofill.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 359,
+              "HttpStatus": 200,
+              "Size": 36,
+              "URL": "https://content-autofill.googleapis.com/v1/pages/ChNDaHJvbWUvOTQuMC40NjA2LjgxEhAJrlVfs5DBJJoSBQ1nZ7P-GKupygE=?alt=proto"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "173.194.220.94",
+          "IncludeInScript": true,
+          "Name": "clientservices.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 16,
+              "EventId": 243,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=94"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google-analytics.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "74.125.131.113",
+          "IncludeInScript": true,
+          "Name": "www.google-analytics.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 32,
+              "EventId": 342,
+              "HttpStatus": 200,
+              "Size": 6847,
+              "URL": "https://www.google-analytics.com/urchin.js"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "dns.google",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "8.8.4.4",
+          "IncludeInScript": true,
+          "Name": "dns.google",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/dns-message",
+              "DownloadTime": 47,
+              "EventId": 311,
+              "HttpStatus": 200,
+              "Size": 468,
+              "URL": "https://dns.google/dns-query?dns=AAABAAABAAAAAAABC3Nsb3ZhcmRhbGphA25ldAAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/dns-message",
+              "DownloadTime": 31,
+              "EventId": 305,
+              "HttpStatus": 200,
+              "Size": 468,
+              "URL": "https://dns.google/dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/dns-message",
+              "DownloadTime": 31,
+              "EventId": 303,
+              "HttpStatus": 200,
+              "Size": 468,
+              "URL": "https://dns.google/dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/dns-message",
+              "DownloadTime": 62,
+              "EventId": 298,
+              "HttpStatus": 200,
+              "Size": 468,
+              "URL": "https://dns.google/dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/dns-message",
+              "DownloadTime": 47,
+              "EventId": 295,
+              "HttpStatus": 200,
+              "Size": 468,
+              "URL": "https://dns.google/dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "counter.yadro.ru",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "88.212.201.198",
+          "IncludeInScript": true,
+          "Name": "counter.yadro.ru",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 355,
+              "HttpStatus": 302,
+              "Size": 32,
+              "URL": "http://counter.yadro.ru/hit?t44.1;r;s1920*1080*24;uhttp%3A//slovardalja.net/;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.4222119036845413"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "88.212.201.198",
+          "IncludeInScript": true,
+          "Name": "counter.yadro.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 0,
+              "EventId": 386,
+              "HttpStatus": 200,
+              "Size": 140,
+              "URL": "https://counter.yadro.ru/hit?q;t44.1;rhttp%3A//slovardalja.net/letter.php%3Fcharkod%3D192;s1920*1080*24;uhttp%3A//slovardalja.net/word.php%3Fwordid%3D672;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.14213933560957637"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 384,
+              "HttpStatus": 302,
+              "Size": 32,
+              "URL": "https://counter.yadro.ru/hit?t44.1;rhttp%3A//slovardalja.net/letter.php%3Fcharkod%3D192;s1920*1080*24;uhttp%3A//slovardalja.net/word.php%3Fwordid%3D672;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.14213933560957637"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 15,
+              "EventId": 374,
+              "HttpStatus": 200,
+              "Size": 140,
+              "URL": "https://counter.yadro.ru/hit?q;t44.1;rhttp%3A//slovardalja.net/;s1920*1080*24;uhttp%3A//slovardalja.net/letter.php%3Fcharkod%3D192;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.4659029867792641"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 372,
+              "HttpStatus": 302,
+              "Size": 32,
+              "URL": "https://counter.yadro.ru/hit?t44.1;rhttp%3A//slovardalja.net/;s1920*1080*24;uhttp%3A//slovardalja.net/letter.php%3Fcharkod%3D192;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.4659029867792641"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 366,
+              "HttpStatus": 302,
+              "Size": 32,
+              "URL": "https://counter.yadro.ru/hit?t44.1;r;s1920*1080*24;uhttp%3A//slovardalja.net/;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.4222119036845413"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "counter.rambler.ru",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "81.19.89.18",
+          "IncludeInScript": true,
+          "Name": "counter.rambler.ru",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 380,
+              "HttpStatus": 307,
+              "Size": 171,
+              "URL": "http://counter.rambler.ru/top100.cnt?1439171"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 368,
+              "HttpStatus": 307,
+              "Size": 171,
+              "URL": "http://counter.rambler.ru/top100.cnt?1439171"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 327,
+              "HttpStatus": 307,
+              "Size": 171,
+              "URL": "http://counter.rambler.ru/top100.cnt?1439171"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "81.19.89.18",
+          "IncludeInScript": true,
+          "Name": "counter.rambler.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 382,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://counter.rambler.ru/top100.cnt?1439171"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 370,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://counter.rambler.ru/top100.cnt?1439171"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 15,
+              "EventId": 338,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://counter.rambler.ru/top100.cnt?1439171"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 1
+}

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Origin: *
+X-Content-Type-Options: nosniff
+Date: Mon, 18 Oct 2021 19:46:29 GMT
+Expires: Mon, 18 Oct 2021 19:46:29 GMT
+Cache-Control: private, max-age=25
+Content-Type: application/dns-message
+Server: HTTP server (unknown)
+Content-Length: 468
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+

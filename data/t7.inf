@@ -1,0 +1,13 @@
+[t7]
+FileName1=t7.htm
+URL1=http://slovardalja.net/word.php?wordid=12491
+Total=2
+RequestHeaderFile=t7_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t7_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_7.xml
+FileName2=t7_hit.gif
+URL2=https://counter.yadro.ru/hit?q;t44.1;rhttp%3A//slovardalja.net/letter.php%3Fcharkod%3D202;s1920*1080*24;uhttp%3A//slovardalja.net/word.php%3Fwordid%3D12491;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.4198842884729179
+[ProtocolInfo]
+ProtocolId=QTWeb

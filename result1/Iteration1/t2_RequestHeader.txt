@@ -1,0 +1,8 @@
+GET /letter.php?charkod=195 HTTP/1.1
+User-Agent: Chrome
+Accept-Encoding: gzip, deflate, br
+Accept-Language: *
+Accept: */*
+Connection: Keep-Alive
+Host: slovardalja.net
+

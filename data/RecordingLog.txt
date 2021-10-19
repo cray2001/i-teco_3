@@ -1,0 +1,179 @@
+[API Trapper      (3bb8:22cc)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (28a0:328c)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (2714:37d0)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (2714:10a0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2714:10a0)] Load Network Traffic Analyzers:
+[Network Analyzer (2714:10a0)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2714:10a0)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (2714:10a0)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2714:10a0)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (2714:10a0)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (2714:10a0)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2714:10a0)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2714:10a0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2714:3e08)] Address lookup for NWT = 192.168.0.102
+[Network Analyzer (2714:10a0)] Address lookup for NWT = 192.168.0.102
+[Network Analyzer (2714:10a0)] Request Connection: Remote Server @ 173.194.220.94:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (2714:10a0)] Address lookup for NWT = 192.168.0.102
+[Network Analyzer (2714:10a0)] Request Connection: Remote Server @ 64.233.163.84:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2714:16fc)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:16fc)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2714:3e08)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=94"   
+[Network Analyzer (2714:3e08)]   (Sid:  1) Client -> Server @ : 448 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid:  1) Server -> Client : 349 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2714:11a0)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:11a0)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:10a0)] Address lookup for NWT = 192.168.0.102
+[Network Analyzer (2714:10a0)] Request Connection: Remote Server @ 173.194.221.138:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (2714:10a0)] Address lookup for NWT = 192.168.0.102
+[Network Analyzer (2714:10a0)] Request Connection: Remote Server @ 173.194.222.188:5228   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (2714:278c)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:278c)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[API Trapper      (34bc:3134)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (2714:21c4)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:21c4)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:3e08)]   (Sid:  4) Client -> Server @ : 154 bytes (SSL)
+[Network Analyzer (2714:10a0)] Address lookup for NWT = 192.168.0.102
+[Network Analyzer (2714:3e08)]   (Sid:  4) Server -> Client : 1 bytes (SSL)
+[Network Analyzer (2714:3e08)]   (Sid:  4) Server -> Client : 65 bytes (SSL)
+[Network Analyzer (2714:3e08)]   (Sid:  4) Server -> Client : 12 bytes (SSL)
+[Network Analyzer (2714:10a0)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (2714:10a0)] Address lookup for NWT = 192.168.0.102
+[Network Analyzer (2714:10a0)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (2714:10a0)] Address lookup for NWT = 192.168.0.102
+[Network Analyzer (2714:10a0)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (2714:2ff0)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:1ee0)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:2ff0)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:1ee0)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:10a0)] Address lookup for NWT = 192.168.0.102
+[Web Request      (2714:3e08)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (2714:3e08)]   (Sid:  5) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Web Request      (2714:3e08)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (2714:3e08)]   (Sid:  6) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2714:10a0)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (2714:3e08)] (Sid:  5) The target site is using an earlier version of SSL than specified in the Recording options. Try changing the SSL version to SSL2/3 (Recording Options > Network > Mapping and Filtering > Options) and re-recording the business process.
+[Network Analyzer (2714:3e08)]   (Sid:  5) Server -> Client : 1079 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2714:10a0)] Address lookup for NWT = 192.168.0.102
+[Network Analyzer (2714:3e08)] (Sid:  6) The target site is using an earlier version of SSL than specified in the Recording options. Try changing the SSL version to SSL2/3 (Recording Options > Network > Mapping and Filtering > Options) and re-recording the business process.
+[Network Analyzer (2714:3e08)]   (Sid:  6) Server -> Client : 1080 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2714:10a0)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (2714:33a4)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2714:3e08)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (2714:3e08)]   (Sid:  5) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Web Request      (2714:3e08)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (2714:3e08)]   (Sid:  6) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2714:33a4)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:3e08)] (Sid:  6) The target site is using an earlier version of SSL than specified in the Recording options. Try changing the SSL version to SSL2/3 (Recording Options > Network > Mapping and Filtering > Options) and re-recording the business process.
+[Network Analyzer (2714:3e08)]   (Sid:  6) Server -> Client : 1079 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2714:3e08)] (Sid:  5) The target site is using an earlier version of SSL than specified in the Recording options. Try changing the SSL version to SSL2/3 (Recording Options > Network > Mapping and Filtering > Options) and re-recording the business process.
+[Network Analyzer (2714:3e08)]   (Sid:  5) Server -> Client : 1080 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2714:2f88)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:2f88)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:3160)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:3160)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2714:3e08)] "GET /dns-query?dns=AAABAAABAAAAAAABC3Nsb3ZhcmRhbGphA25ldAAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (2714:3e08)]   (Sid:  6) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2714:3e08)] (Sid:  6) The target site is using an earlier version of SSL than specified in the Recording options. Try changing the SSL version to SSL2/3 (Recording Options > Network > Mapping and Filtering > Options) and re-recording the business process.
+[Network Analyzer (2714:3e08)]   (Sid:  6) Server -> Client : 1082 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2714:10a0)] Address lookup for NWT = 192.168.0.102
+[Network Analyzer (2714:10a0)] Request Connection: Remote Server @ 194.28.84.194:80   (Service=)  (Sid= 10)  PROXIED!
+[Web Request      (2714:3e08)] "GET /"   
+[Network Analyzer (2714:3e08)]   (Sid: 10) Client -> Server @ : 433 bytes (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 10) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 10) Server -> Client : 1673 bytes  (Service=HTTP)
+[Web Request      (2714:3e08)] "GET /style.css"   
+[Network Analyzer (2714:3e08)]   (Sid: 10) Client -> Server @ : 329 bytes (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 10) Server -> Client : 1364 bytes  (Service=HTTP)
+[Web Request      (2714:3e08)] "GET /img/Header.jpg"   
+[Network Analyzer (2714:3e08)]   (Sid: 10) Client -> Server @ : 380 bytes (Service=HTTP)
+[Network Analyzer (2714:10a0)] Address lookup for NWT = 192.168.0.102
+[Network Analyzer (2714:3e08)]   (Sid: 10) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 10) Server -> Client : 9674 bytes  (Service=HTTP)
+[Network Analyzer (2714:10a0)] Request Connection: Remote Server @ 194.28.84.194:80   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (2714:10a0)] Address lookup for NWT = 192.168.0.102
+[Web Request      (2714:3e08)] "GET /img/endpic.jpg"   
+[Network Analyzer (2714:3e08)]   (Sid: 11) Client -> Server @ : 380 bytes (Service=HTTP)
+[Network Analyzer (2714:10a0)] Request Connection: Remote Server @ 81.19.89.18:80   (Service=)  (Sid= 12)  PROXIED!
+[Web Request      (2714:3e08)] "GET /top100.cnt?1439171"   
+[Network Analyzer (2714:3e08)]   (Sid: 12) Client -> Server @ : 387 bytes (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 12) Server -> Client : 707 bytes  (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 11) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 11) Server -> Client : 106 bytes  (Service=HTTP)
+[Network Analyzer (2714:10a0)] Address lookup for NWT = 192.168.0.102
+[Network Analyzer (2714:10a0)] Request Connection: Remote Server @ 81.19.89.18:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (2714:10a0)] Address lookup for NWT = 192.168.0.102
+[Network Analyzer (2714:10a0)] Request Connection: Remote Server @ 74.125.131.113:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (2714:41a0)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:41a0)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2714:3e08)] "GET /top100.cnt?1439171"   
+[Network Analyzer (2714:3e08)]   (Sid: 13) Client -> Server @ : 467 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 13) Server -> Client : 828 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2714:1fd8)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:1fd8)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2714:3e08)] "GET /urchin.js"   
+[Network Analyzer (2714:3e08)]   (Sid: 14) Client -> Server @ : 404 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 14) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 14) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 14) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 14) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 14) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 14) Server -> Client : 429 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2714:10a0)] Address lookup for NWT = 192.168.0.102
+[Network Analyzer (2714:10a0)] Request Connection: Remote Server @ 108.177.14.95:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (2714:10a0)] Address lookup for NWT = 192.168.0.102
+[Network Analyzer (2714:10a0)] Request Connection: Remote Server @ 88.212.201.210:80   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (2714:2570)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:2570)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2714:3e08)] "GET /letter.php?charkod=192"   
+[Network Analyzer (2714:3e08)]   (Sid: 11) Client -> Server @ : 676 bytes (Service=HTTP)
+[Web Request      (2714:3e08)] "GET /v1/pages/ChNDaHJvbWUvOTQuMC40NjA2LjgxEhAJrlVfs5DBJJoSBQ1nZ7P-GKupygE=?alt=proto"   
+[Network Analyzer (2714:3e08)]   (Sid: 15) Client -> Server @ : 530 bytes (SSL)(Service=HTTP)
+[Web Request      (2714:3e08)] "GET /hit?t44.1;r;s1920*1080*24;uhttp%3A//slovardalja.net/;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.4222119036845413"   
+[Network Analyzer (2714:3e08)]   (Sid: 16) Client -> Server @ : 599 bytes (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 16) Server -> Client : 517 bytes  (Service=HTTP)
+[Network Analyzer (2714:10a0)] Address lookup for NWT = 192.168.0.102
+[Network Analyzer (2714:3e08)]   (Sid: 15) Server -> Client : 591 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2714:10a0)] Request Connection: Remote Server @ 88.212.201.210:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (2714:3e04)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:3e04)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2714:3e08)]   (Sid: 11) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 11) Server -> Client : 6998 bytes  (Service=HTTP)
+[Web Request      (2714:3e08)] "GET /hit?t44.1;r;s1920*1080*24;uhttp%3A//slovardalja.net/;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.4222119036845413"   
+[Network Analyzer (2714:3e08)]   (Sid: 17) Client -> Server @ : 679 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2714:3e08)] (Sid: 17) The target site is using an earlier version of SSL than specified in the Recording options. Try changing the SSL version to SSL2/3 (Recording Options > Network > Mapping and Filtering > Options) and re-recording the business process.
+[Network Analyzer (2714:3e08)]   (Sid: 17) Server -> Client : 772 bytes (SSL) (Service=HTTP)
+[Web Request      (2714:3e08)] "GET /top100.cnt?1439171"   
+[Network Analyzer (2714:3e08)]   (Sid: 12) Client -> Server @ : 387 bytes (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 12) Server -> Client : 707 bytes  (Service=HTTP)
+[Web Request      (2714:3e08)] "GET /top100.cnt?1439171"   
+[Network Analyzer (2714:3e08)]   (Sid: 13) Client -> Server @ : 517 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 13) Server -> Client : 750 bytes (SSL) (Service=HTTP)
+[Web Request      (2714:3e08)] "GET /hit?t44.1;rhttp%3A//slovardalja.net/;s1920*1080*24;uhttp%3A//slovardalja.net/letter.php%3Fcharkod%3D192;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.4659029867792641"   
+[Network Analyzer (2714:3e08)]   (Sid: 17) Client -> Server @ : 730 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2714:3e08)] (Sid: 17) The target site is using an earlier version of SSL than specified in the Recording options. Try changing the SSL version to SSL2/3 (Recording Options > Network > Mapping and Filtering > Options) and re-recording the business process.
+[Network Analyzer (2714:3e08)]   (Sid: 17) Server -> Client : 823 bytes (SSL) (Service=HTTP)
+[Web Request      (2714:3e08)] "GET /hit?q;t44.1;rhttp%3A//slovardalja.net/;s1920*1080*24;uhttp%3A//slovardalja.net/letter.php%3Fcharkod%3D192;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.4659029867792641"   
+[Network Analyzer (2714:3e08)]   (Sid: 17) Client -> Server @ : 732 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2714:3e08)] (Sid: 17) The target site is using an earlier version of SSL than specified in the Recording options. Try changing the SSL version to SSL2/3 (Recording Options > Network > Mapping and Filtering > Options) and re-recording the business process.
+[Network Analyzer (2714:3e08)]   (Sid: 17) Server -> Client : 627 bytes (SSL) (Service=HTTP)
+[Web Request      (2714:3e08)] "GET /favicon.ico"   
+[Network Analyzer (2714:3e08)]   (Sid: 11) Client -> Server @ : 586 bytes (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 11) Server -> Client : 792 bytes  (Service=HTTP)
+[Web Request      (2714:3e08)] "GET /word.php?wordid=672"   
+[Network Analyzer (2714:3e08)]   (Sid: 11) Client -> Server @ : 695 bytes (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 11) Server -> Client : 2377 bytes  (Service=HTTP)
+[Web Request      (2714:3e08)] "GET /top100.cnt?1439171"   
+[Network Analyzer (2714:3e08)]   (Sid: 12) Client -> Server @ : 387 bytes (Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 12) Server -> Client : 707 bytes  (Service=HTTP)
+[Web Request      (2714:3e08)] "GET /top100.cnt?1439171"   
+[Network Analyzer (2714:3e08)]   (Sid: 13) Client -> Server @ : 517 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2714:3e08)]   (Sid: 13) Server -> Client : 750 bytes (SSL) (Service=HTTP)
+[Web Request      (2714:3e08)] "GET /hit?t44.1;rhttp%3A//slovardalja.net/letter.php%3Fcharkod%3D192;s1920*1080*24;uhttp%3A//slovardalja.net/word.php%3Fwordid%3D672;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.14213933560957637"   
+[Network Analyzer (2714:3e08)]   (Sid: 17) Client -> Server @ : 754 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2714:3e08)] (Sid: 17) The target site is using an earlier version of SSL than specified in the Recording options. Try changing the SSL version to SSL2/3 (Recording Options > Network > Mapping and Filtering > Options) and re-recording the business process.
+[Network Analyzer (2714:3e08)]   (Sid: 17) Server -> Client : 847 bytes (SSL) (Service=HTTP)
+[Web Request      (2714:3e08)] "GET /hit?q;t44.1;rhttp%3A//slovardalja.net/letter.php%3Fcharkod%3D192;s1920*1080*24;uhttp%3A//slovardalja.net/word.php%3Fwordid%3D672;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.14213933560957637"   
+[Network Analyzer (2714:3e08)]   (Sid: 17) Client -> Server @ : 756 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2714:3e08)] (Sid: 17) The target site is using an earlier version of SSL than specified in the Recording options. Try changing the SSL version to SSL2/3 (Recording Options > Network > Mapping and Filtering > Options) and re-recording the business process.
+[Network Analyzer (2714:3e08)]   (Sid: 17) Server -> Client : 627 bytes (SSL) (Service=HTTP)

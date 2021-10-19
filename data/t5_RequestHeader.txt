@@ -1,0 +1,13 @@
+POST /v1/users/me/securitydomains/chromesync:join?alt=proto HTTP/1.1
+Host: securitydomain-pa.googleapis.com
+Connection: keep-alive
+Content-Length: 367
+Authorization: Bearer ya29.a0ARrdaM-bcR2AswGJixW1EnhCcGxcBBsYFmJ8mL12-isIJhWK3EoGM1yrMeTvbaX9umH9VoOGzi885LcCLlTxdZEfVrA3Aa_rL2yvK1dB9Q4LqYrbu-uiTuvfcbTllUzyNv56ccJhc1Zrvb-hgq4rJ31-WACB4L3hSrYDXG6ruH2Xw3mBWQ0j1lfoWQspV7Q5tYoWxNxEFWRiFXglkTw4uCPQR8XAHhJ3mN6x3chGwhCM0k9S_I8hikbNT5iKOSNcINzT
+Content-Type: application/x-protobuf
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+

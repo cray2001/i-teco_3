@@ -1,0 +1,15 @@
+[t10]
+FileName1=t10.htm
+URL1=http://slovardalja.net/letter.php?charkod=192
+Total=3
+RequestHeaderFile=t10_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t10_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_10.xml
+FileName2=t10_hit.gif
+URL2=https://counter.yadro.ru/hit?q;t44.1;rhttp%3A//slovardalja.net/;s1920*1080*24;uhttp%3A//slovardalja.net/letter.php%3Fcharkod%3D192;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.4659029867792641
+FileName3=t10_favicon.ico
+URL3=http://slovardalja.net/favicon.ico
+[ProtocolInfo]
+ProtocolId=QTWeb
